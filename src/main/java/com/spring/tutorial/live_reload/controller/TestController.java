@@ -8,6 +8,6 @@ public class TestController {
 
     @GetMapping
     public String returnText(){
-        return "This is no longer a fucking test. This is real af dawg, aaaaaaaaaaaaaaaaaaaaa";
+        return "Write anything in here to test the live reload";
     }
 }
